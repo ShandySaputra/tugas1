@@ -13,11 +13,11 @@ public class tvaksi {
 public static void main(String[] args) {
         tv sony = new tv();
         
-        sony.type="Muhammad aja";
-        sony.ukuran="Baju Kuning";
-        sony.harga="Celana Merah";
-        sony.warna="Kaos Kaki hitam";
-        sony.jenis="Sepatu Hitam";
+        sony.type="sony 001";
+        sony.ukuran="23 inch";
+        sony.harga="1.500.000";
+        sony.warna="hitam";
+        sony.jenis="LCD";
         
         sony.CetakInfo();
     }    
