@@ -10,5 +10,18 @@ package tugas1;
  * @author shandy
  */
 public class tv {
+    String type;
+    String ukuran;
+    String harga;
+    String warna;
+    String jenis;
+    
+    void CetakInfo(){
+        System.out.println("type     :"+type);
+        System.out.println("ukuran   :"+ukuran);
+        System.out.println("harga    :"+harga);
+        System.out.println("warna    :"+warna);
+        System.out.println("jenis    :"+jenis);
+    }
     
 }
